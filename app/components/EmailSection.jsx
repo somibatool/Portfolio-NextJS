@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 const EmailSection = () => {
   return (
-    <section className="grid  md:grid-cols-2 my-12 md:my-12 py-24 gap-4 relative">
+    <section className="grid  md:grid-cols-2 my-12 md:my-12 py-24 gap-4 ">
       <div>
         <h5 className="text-xl font-bold  text-white  my-2">Lets Connect </h5>
         <p className="text-white mb-4 max-w-md">
@@ -23,7 +23,7 @@ const EmailSection = () => {
           </Link>
         </div>
       </div>
-      <div className="w-full md:w-[450px] ">
+      <div className="w-full md:w-112.5 ">
         <form className="flex flex-col ">
           <div className="mb-6">
             <label
