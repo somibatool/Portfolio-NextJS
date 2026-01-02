@@ -44,7 +44,7 @@ const projectData=[
         id:5,
         title:"Photography Portfolio Website ",
         description:"project 4 description",
-        image: "/images/project/4.png",
+        image: "/images/project/5.png",
         tag: ["All", "Web"],
          gitUrl:"/",
         previewUrl:"/"
@@ -53,7 +53,7 @@ const projectData=[
         id:6,
         title:"Photography Portfolio Website ",
         description:"project 4 description",
-        image: "/images/project/4.png",
+        image: "/images/project/6.png",
         tag: ["All", "Web"],
          gitUrl:"/",
         previewUrl:"/"
